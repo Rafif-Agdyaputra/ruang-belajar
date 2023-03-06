@@ -1,6 +1,6 @@
 # Ruang Belajar
 
-Contributor:
+Contributor: 
 
 - `Rafif Agdyaputra - FE4609412`
 - Bob
